@@ -97,5 +97,8 @@
     </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> 
-    </a>            
+    </a>  
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/dochne/wappalyzer/953a28c681b9a0d829a81a1174ec14e975eee245/src/images/icons/Docker.svg" alt="docker" width="60" height="60"/> 
+    </a> 
 </p>
