@@ -59,6 +59,9 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> 
     </a> 
+    <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/cloudinary-icon.svg" alt="cloudinary" width="60" height="60"/> 
+    </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
     </a>
@@ -70,6 +73,9 @@
     </a> 
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> 
+    </a> 
+    <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/dd9fcd398238053c90e09f41b51206dae8d86dc8/apps/bestofjs-nextjs/public/logos/axios.svg" alt="axios" width="60" height="60"/> 
     </a> 
     <a href="https://zod.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/zod.svg" alt="zod" width="60" height="60"/> 
@@ -83,9 +89,15 @@
     <a href="https://nodemon.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/nodemon.svg" alt="nodemon" width="60" height="60"/> 
     </a>
+    <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/dd9fcd398238053c90e09f41b51206dae8d86dc8/apps/bestofjs-nextjs/public/logos/socketio.svg" alt="socket" width="60" height="60"/> 
+    </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> 
-    </a>    
+    </a>
+    <a href="https://www.ffmpeg.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/ffmpeg-icon.svg" alt="ffmpeg" width="60" height="60"/> 
+    </a>
     <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/chatgpt.svg" alt="chatgpt" width="60" height="60"/> 
     </a> 
