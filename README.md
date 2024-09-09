@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshdeep Singh Malhotra</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate fullstack developer in JavaScript</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
