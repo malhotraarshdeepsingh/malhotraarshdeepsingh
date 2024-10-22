@@ -111,3 +111,7 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> 
     </a>
 </p>
+<p align="center">
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malhotraarshdeepsingh&show_icons=true&locale=en&layout=compact" alt="malhotraarshdeepsingh" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malhotraarshdeepsingh&" alt="malhotraarshdeepsingh" /></p>
+</p>
