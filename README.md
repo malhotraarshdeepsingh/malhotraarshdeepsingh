@@ -73,9 +73,6 @@
     </a> 
     <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/dd9fcd398238053c90e09f41b51206dae8d86dc8/apps/bestofjs-nextjs/public/logos/axios.svg" alt="axios" width="60" height="60"/> 
-    </a> 
-    <a href="https://eslint.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/89a95757aed9a585f6f5256baa96f989b89a061c/icons/file_type_eslint2.svg" alt="eslint" width="60" height="60"/> 
     </a>
     <a href="https://zod.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/zod.svg" alt="zod" width="60" height="60"/> 
@@ -106,9 +103,6 @@
     </a> 
     <a href="https://github.com/malhotraarshdeepsingh/malhotaarshdeepsingh" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/smcllns/css-social-buttons/306c065c85a23bd45676db8a52fef23613b49b6d/src/github.svg" alt="github" width="60" height="60"/> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> 
     </a>
 </p>
 <p align="center">
