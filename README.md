@@ -97,10 +97,7 @@
     </a>
     <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/chatgpt.svg" alt="chatgpt" width="60" height="60"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-    </a> 
+    </a>
     <a href="https://github.com/malhotraarshdeepsingh/malhotaarshdeepsingh" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/smcllns/css-social-buttons/306c065c85a23bd45676db8a52fef23613b49b6d/src/github.svg" alt="github" width="60" height="60"/> 
     </a>
