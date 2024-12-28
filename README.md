@@ -37,9 +37,6 @@
     </a>
     <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/dochne/wappalyzer/953a28c681b9a0d829a81a1174ec14e975eee245/src/images/icons/shadcn-ui.svg" alt="shadcn" width="60" height="60"/>
-
-
-        
     </a>
     <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="60" height="60"/> 
