@@ -20,6 +20,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
   </a>
+
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="60" height="60"/>
   </a>
@@ -51,6 +52,7 @@
   <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/dd9fcd398238053c90e09f41b51206dae8d86dc8/apps/bestofjs-nextjs/public/logos/socketio.svg" alt="socket" width="60" height="60"/> 
     </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/>
 </p>  
 
 ### **Database & Storage**  
@@ -70,6 +72,7 @@
   <a href="https://mongoosejs.com/docs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongoose/mongoose-original.svg" alt="mongoose" width="60" height="60"/> 
     </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
 </p>  
 
 ### **Programming Languages**  
@@ -83,6 +86,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="60" height="60"/>
 </p>  
 
 ### **DevOps & Tools**  
@@ -113,6 +118,9 @@
     </a>
 </p>  
 
+### **AI/ML**
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
+
 ### **UI/UX & Styling**  
 <p align="left">
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -130,6 +138,7 @@
   <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="60" height="60"/> 
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
 </p>  
 <p align="center">
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malhotraarshdeepsingh&show_icons=true&locale=en&layout=compact" alt="malhotraarshdeepsingh" /></p>
