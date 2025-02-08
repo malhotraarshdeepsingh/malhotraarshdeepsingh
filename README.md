@@ -84,12 +84,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongoose/mongoose-original.svg" alt="mongoose" width="60" height="60"/> 
     </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
-  <a href="https://neon.tech/" target="_blank" rel="noreferrer"> 
-        
-    </a> 
     <a href="https://neon.tech/docs/introduction" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/neon-icon.svg" alt="mongoose" width="60" height="60"/> 
-    </a> 
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/neon-icon.svg" alt="mongoose" width="60" height="60"/> </a> 
 </p>  
 
 ### **Programming Languages**  
