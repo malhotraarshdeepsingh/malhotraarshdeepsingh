@@ -30,6 +30,15 @@
   <a href="https://zod.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/zod.svg" alt="zod" width="60" height="60"/> 
     </a>
+    <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.vectorlogo.zone/logos/solidjs/images/d514fbf4-e50a-4efa-933b-061bded05cd5.svg" alt="zod" width="60" height="60"/> 
+    </a>
+     <a href="https://docs.astro.build/en/getting-started/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/b02ee1ac30c7ff4757278337c95588b01ed0954b/svg/a/astrojs.svg" alt="zod" width="60" height="60"/> 
+    </a>
+    <a href="https://p5js.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.vectorlogo.zone/logos/p5js/images/af025465-97a4-4c5a-96a3-89f8917004c2.svg" alt="mongoose" width="60" height="60"/> 
+    </a> 
 </p>  
 
 ### **Backend Development**  
@@ -53,6 +62,8 @@
         <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/dd9fcd398238053c90e09f41b51206dae8d86dc8/apps/bestofjs-nextjs/public/logos/socketio.svg" alt="socket" width="60" height="60"/> 
     </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/>
+    <a href="https://razorpay.com/docs/api/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/razorpay.svg" alt="django" width="60" height="60"/> </a>
+    <a href="https://arcjet.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/landscape/9feca6bb7bd5765deb6108b2d426060d41b66916/hosted_logos/arcjet.svg" alt="django" width="60" height="60"/> </a>
 </p>  
 
 ### **Database & Storage**  
@@ -73,6 +84,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongoose/mongoose-original.svg" alt="mongoose" width="60" height="60"/> 
     </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
+  <a href="https://neon.tech/" target="_blank" rel="noreferrer"> 
+        
+    </a> 
+    <a href="https://neon.tech/docs/introduction" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/neon-icon.svg" alt="mongoose" width="60" height="60"/> 
+    </a> 
 </p>  
 
 ### **Programming Languages**  
@@ -139,6 +156,7 @@
       <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="60" height="60"/> 
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" alt="figma" width="60" height="60"/> </a>
 </p>  
 <p align="center">
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malhotraarshdeepsingh&show_icons=true&locale=en&layout=compact" alt="malhotraarshdeepsingh" /></p>
