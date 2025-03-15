@@ -1,5 +1,4 @@
-# Hi 👋, I'm Arshdeep Singh Malhotra  
-### A Passionate Developer  
+# Hi 👋, I'm Arshdeep Singh Malhotra 
 
 ## 🛠 Languages and Tools  
 
