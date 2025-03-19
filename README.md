@@ -48,6 +48,8 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="60" height="60"/>
   </a>
+  <a href="https://actix.rs/docs" target="_blank" rel="noreferrer"> <img src="https://actix.rs/img/logo.png" alt="actix" width="60" height="60"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/>
   <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/dd9fcd398238053c90e09f41b51206dae8d86dc8/apps/bestofjs-nextjs/public/logos/axios.svg" alt="axios" width="60" height="60"/> 
     </a>
@@ -60,7 +62,6 @@
   <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/dd9fcd398238053c90e09f41b51206dae8d86dc8/apps/bestofjs-nextjs/public/logos/socketio.svg" alt="socket" width="60" height="60"/> 
     </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/>
     <a href="https://razorpay.com/docs/api/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/razorpay.svg" alt="django" width="60" height="60"/> </a>
     <a href="https://arcjet.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/landscape/9feca6bb7bd5765deb6108b2d426060d41b66916/hosted_logos/arcjet.svg" alt="django" width="60" height="60"/> </a>
 </p>  
@@ -69,6 +70,13 @@
 <p align="left">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> 
+  </a>
+</p>
+
+### **Desktop Application**
+<p align="left">
+  <a href="https://docs.slint.dev/latest/docs/slint/" target="_blank" rel="noreferrer"> 
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/slint-9tmujz5gqdbg4a2yp2koxj.png/slint-d6df35md657ngl52c6tt4s.png?_a=DAJFJtWIZAAC" alt="slint" width="60" height="60"/> 
   </a>
 </p>
 
@@ -125,6 +133,9 @@
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> 
+  </a> 
+  <a href="https://docs.digitalocean.com/products/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-tile.svg" alt="digitalocean" width="60" height="60"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
