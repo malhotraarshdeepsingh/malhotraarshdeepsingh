@@ -99,7 +99,9 @@
     </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
     <a href="https://neon.tech/docs/introduction" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/neon-icon.svg" alt="mongoose" width="60" height="60"/> </a> 
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/neon-icon.svg" alt="mongoose" width="60" height="60"/> </a>
+  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="mongoose" width="60" height="60"/> </a>
 </p>  
 
 ### **Programming Languages**  
@@ -133,7 +135,7 @@
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> 
-  </a> 
+  </a>
   <a href="https://docs.digitalocean.com/products/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-tile.svg" alt="digitalocean" width="60" height="60"/> 
   </a> 
