@@ -1,6 +1,4 @@
-# Hi 👋, I'm Arshdeep Singh Malhotra 
-
-## 🛠 Languages and Tools  
+# Hi 👋, I'm Arshdeep Singh Malhotra
 
 ### **Frontend Development**  
 <p align="left">
