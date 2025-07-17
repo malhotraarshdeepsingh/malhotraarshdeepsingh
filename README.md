@@ -92,6 +92,8 @@
   <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/cloudinary-icon.svg" alt="cloudinary" width="60" height="60"/> 
     </a> 
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="60" height="60"/> </a>
   <a href="https://mongoosejs.com/docs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongoose/mongoose-original.svg" alt="mongoose" width="60" height="60"/> 
     </a> 
@@ -162,6 +164,7 @@
 
 ### **AI/ML**
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
+<a href="https://www.langchain.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" alt="langchain" width="250" height="120"/> </a>
 
 ### **UI/UX & Styling**  
 <p align="left">
