@@ -21,11 +21,23 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/detain/svg-logos/b02ee1ac30c7ff4757278337c95588b01ed0954b/svg/a/astrojs.svg" alt="astrojs" height="40"/>
   <img width="12" />
+  <img src="https://upload.vectorlogo.zone/logos/solidjs/images/d514fbf4-e50a-4efa-933b-061bded05cd5.svg" alt="solidjs" height="40"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" height="40"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/cloudinary-icon.svg" alt="cloudinary" height="40"/> 
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" height="40"/>  
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/> 
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/neon-icon.svg" alt="neonDB" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
@@ -33,9 +45,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/zod.svg" alt="zod" height="40"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/cncf/landscape/9feca6bb7bd5765deb6108b2d426060d41b66916/hosted_logos/arcjet.svg" alt="arcjet" height="40"/> 
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="40"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/dochne/wappalyzer/953a28c681b9a0d829a81a1174ec14e975eee245/src/images/icons/shadcn-ui.svg" alt="shadcn" height="40"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" height="40"/> 
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" alt="threeJS" height="40"/>
+  <img width="12" />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/slint-9tmujz5gqdbg4a2yp2koxj.png/slint-d6df35md657ngl52c6tt4s.png?_a=DAJFJtWIZAAC" alt="slint" height="40"/>
+  <img width="12" />
+  <img src="https://actix.rs/img/logo.png" alt="actix" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
@@ -50,6 +78,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="40"/> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
