@@ -1,4 +1,21 @@
-<p align="left">Hi 👋, I'm Arshdeep Singh Malhotra</p>
+<div align="center">
+  <h2>Hi 👋, I'm Arshdeep Singh Malhotra</h2>
+  
+  <div align="center">
+    <a href="https://www.linkedin.com/in/arshdeep-singh-malhotra-421ba327b/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+           width="40" height="40" alt="LinkedIn" />
+    </a>
+    <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" 
+           width="40" height="40" alt="Discord" />
+    </a>
+  </div>
+</div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -98,12 +115,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/arshdeep-singh-malhotra-421ba327b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -111,7 +123,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malhotraarshdeepsingh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=malhotraarshdeepsingh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=malhotraarshdeepsingh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malhotraarshdeepsingh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
