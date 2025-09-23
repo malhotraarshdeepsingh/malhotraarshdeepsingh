@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠 Language and tools
 
 ###
 
@@ -115,7 +115,19 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🌟 Featured Projects
+
+- [LeetCode-buddy](https://github.com/malhotraarshdeepsingh/LeetCode-buddy) – Your coding partner for LeetCode practice
+- [SecretSend](https://github.com/malhotraarshdeepsingh/SecretSend) – Securely share secrets, the easy way
+- [DevTube_backend](https://github.com/malhotraarshdeepsingh/DevTube_backend) – Powering the backend for Youtube
+- [RedioSync](https://github.com/malhotraarshdeepsingh/RedioSync) – Advanced Backend Practices to Scale Sync in Real-Time Applications
+- [Coding Lang Detecter](https://github.com/malhotraarshdeepsingh/coding-language-detection) – Detect programming languages from code snippets
+- [Rate Limiting Algo](https://github.com/malhotraarshdeepsingh/simulate-rate-limiting) – Implementing some rate limiting algorithms
+- [Multi Tenant Blog App](https://github.com/malhotraarshdeepsingh/multi-tenant-blog-poc) – A proof‑of‑concept multi‑tenant blog platform
+
+###
+
+## 🔥   My Stats 
 
 ###
 
