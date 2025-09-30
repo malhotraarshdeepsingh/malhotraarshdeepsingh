@@ -1,19 +1,20 @@
-<div align="center">
-  <h2>Hi 👋, I'm Arshdeep Singh Malhotra</h2>
-  
+# Hi 👋, I'm Arshdeep Singh Malhotra</h2>
+
   <div align="center">
-    <a href="https://www.linkedin.com/in/arshdeep-singh-malhotra-421ba327b/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
-           width="40" height="40" alt="LinkedIn" />
-    </a>
-    <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" 
-           width="40" height="40" alt="Discord" />
-    </a>
-  </div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshdeep-singh-malhotra-421ba327b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malhotraarshdeepsingh@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arshdeep_singh_malhotra)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]()
+[![View My Resume](https://img.shields.io/badge/View%20My%20Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white)]()
+
 </div>
 
-###
+
+---
+
+<div align="center">
 
 ## 🛠 Language and tools
 
@@ -112,8 +113,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
+</div>
 
-###
+---
+
 
 ## 🌟 Featured Projects
 
@@ -125,17 +128,33 @@
 - [Rate Limiting Algo](https://github.com/malhotraarshdeepsingh/simulate-rate-limiting) – Implementing some rate limiting algorithms
 - [Multi Tenant Blog App](https://github.com/malhotraarshdeepsingh/multi-tenant-blog-poc) – A proof‑of‑concept multi‑tenant blog platform
 
-###
 
-## 🔥   My Stats 
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malhotraarshdeepsingh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malhotraarshdeepsingh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2&hide=Jupyter%20Notebook,css,html" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=malhotraarshdeepsingh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=malhotraarshdeepsingh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+## 📊 GitHub Analytics
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=malhotraarshdeepsingh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" alt="readme stats" />
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=malhotraarshdeepsingh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2&border_radius=10&hide=Jupyter%20Notebook,css,html" alt="top langs" />
+
+<br/>
+<img width="390" src="https://streak-stats.demolab.com?user=malhotraarshdeepsingh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&order=3" alt="streak stats"/>
+
+
 </div>
 
-###
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app?username=malhotraarshdeepsingh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"">
+</p>
+
+</div>
+
+---
+
+[![Arsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malhotraarshdeepsingh&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
