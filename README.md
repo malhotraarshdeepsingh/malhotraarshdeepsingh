@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## 🛠 Language and tools
+## 💻 Tech Stack
 
 ###
 
@@ -117,8 +117,11 @@
 
 ---
 
-
+<div align="center">
+  
 ## 🌟 Featured Projects
+
+<div align="left">
 
 - [LeetCode-buddy](https://github.com/malhotraarshdeepsingh/LeetCode-buddy) – Your coding partner for LeetCode practice
 - [SecretSend](https://github.com/malhotraarshdeepsingh/SecretSend) – Securely share secrets, the easy way
@@ -128,6 +131,9 @@
 - [Rate Limiting Algo](https://github.com/malhotraarshdeepsingh/simulate-rate-limiting) – Implementing some rate limiting algorithms
 - [Multi Tenant Blog App](https://github.com/malhotraarshdeepsingh/multi-tenant-blog-poc) – A proof‑of‑concept multi‑tenant blog platform
 
+</div>
+
+</div>
 
 ---
 
