@@ -139,10 +139,8 @@
 ## 📊 GitHub Analytics
 
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=malhotraarshdeepsingh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" alt="readme stats" />
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=malhotraarshdeepsingh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2&border_radius=10&hide=Jupyter%20Notebook,css,html" alt="top langs" />
-
-<br/>
 <img width="390" src="https://streak-stats.demolab.com?user=malhotraarshdeepsingh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&order=3" alt="streak stats"/>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=malhotraarshdeepsingh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&border_radius=10&hide=Jupyter%20Notebook,css,html" alt="top langs" />
 
 </div>
 
