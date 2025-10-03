@@ -157,4 +157,4 @@
 
 ---
 
-[![Arsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malhotraarshdeepsingh&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malhotraarshdeepsingh&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true)]()
